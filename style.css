@@ -18,7 +18,7 @@ body {
   align-items: center;
 }
 
-nav ul {
+ul.nav-itmes {
   display: flex;
   gap: 20px;
   list-style: none;
